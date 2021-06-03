@@ -4,8 +4,11 @@ public class AscendingOrderSorting {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+
 		
-		int ar[]= { 10, 4, 6, 20,54, 2,1, 25};
+
+		int ar[]= { 10, 4, 6, 20,54, 2,1, 25,30,12};
+
 		int temp=0;
 		
 		for(int i=0;i<ar.length;i++)
@@ -22,7 +25,10 @@ public class AscendingOrderSorting {
 			}
 			
 			System.out.println(ar[i]);
+
+System.out.pritnln("tha");
 System.out.println("Puji");
+
 		}
 		
 	}
