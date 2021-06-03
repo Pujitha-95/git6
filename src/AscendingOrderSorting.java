@@ -5,7 +5,7 @@ public class AscendingOrderSorting {
 		// TODO Auto-generated method stub
 
 		
-		int ar[]= { 10, 4, 6, 20,54, 2};
+		int ar[]= { 10, 4, 6, 20,54, 2,1, 25};
 		int temp=0;
 		
 		for(int i=0;i<ar.length;i++)
