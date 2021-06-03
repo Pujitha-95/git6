@@ -22,6 +22,7 @@ public class AscendingOrderSorting {
 			}
 			
 			System.out.println(ar[i]);
+System.out.println("Puji");
 		}
 		
 	}
