@@ -13,7 +13,7 @@ public class ArraytoArrayList {
 		List<String> s= new ArrayList<String>(Arrays.asList(ar));
 		
 		s.add("Devi");
-		s.remove(2);
+		s.remove(1);
 		
 		
 		for(int i=0;i<s.size();i++)
